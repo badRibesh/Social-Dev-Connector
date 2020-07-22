@@ -6,6 +6,10 @@ const app = express();
 //connect DB
 connectDB();
 
+// Init Middlware
+
+app.use(express.json({ extented: true }));
+
 app.get('/', (req, res) => res.send('API Running'));
 
 // Define Routes

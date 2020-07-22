@@ -4,7 +4,8 @@ server for the developer social network using ,JavaScript, Node.js and MongoDB.
 
 ### Public Resolvers:
 
--[ ] Sign In / Sign Up with email
+- [x] Sign Up with email
+- [ ] Sign In with email
 
 ### Authentication:
 

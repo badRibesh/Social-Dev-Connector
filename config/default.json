@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://ribesh123:ribesh123@socialdev.mem26.mongodb.net/DevConnector?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://ribesh123:ribesh123@socialdev.mem26.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecerttoken"
 }
