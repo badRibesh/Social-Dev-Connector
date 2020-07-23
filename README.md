@@ -9,7 +9,26 @@ server for the developer social network using ,JavaScript, Node.js and MongoDB.
 
 ### Authentication:
 
-- [ ] Generate JWT
-- [ ] Verify JWT
+- [x] Generate JWT
+- [x] Verify JWT
 
-### Private Resolvers:
+### Private Profile Resolvers:
+
+- [x] Get My Proflie
+- [ ] Update Profile
+- [ ] Add Education
+- [ ] Update Education
+- [ ] Delete Education
+- [ ] Add Experience
+- [ ] Update Experience
+- [ ] Delete Experience
+- [ ] Add Social Accounts
+- [ ] Update Social Accounts
+- [ ] Delete Social Accounts
+
+### Private Posts Resolvers
+
+- [ ] Get All Posts
+- [ ] Add Post
+- [ ] Update Post
+- [ ] Delete Post
